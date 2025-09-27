@@ -4,6 +4,9 @@
 .vscode
 
 task.md
+go.sum
+go.mod
+go.work
 
 *.exe
 *.exe~
@@ -16,8 +19,6 @@ task.md
 *.out
 
 vendor/
-
-go.work
 
 bin/
 dist/
